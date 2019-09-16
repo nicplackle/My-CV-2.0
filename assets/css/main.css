@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light|Source+Sans+Pro:400,700");
+
 html {
   overflow-x: hidden;
 }
@@ -64,6 +65,11 @@ ol {
 ul li,
 ol li {
   list-style: none;
+}
+
+.text-left {
+  padding-top: 10px;
+  padding-left: 10px;
 }
 
 .hero-heading {
