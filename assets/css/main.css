@@ -93,17 +93,15 @@ ol li {
   display: inline;
   font-size: 115px;
   font-weight: 700;
-  height: 100%;
   left: -173px;
   opacity: 0.1;
   position: absolute;
   top: -14px;
-  width: 100%;
   text-align: center;
 }
 
 .section-title-header p {
-  text: center;
+  text-align: center;
   font-weight: 400;
   line-height: 26px;
   padding-bottom: 36px;
@@ -622,7 +620,6 @@ a.back-to-top:focus {
   border-bottom: 1px solid #f1f1f1;
   text-decoration: none;
   display: inline-block;
-  float: left;
   clear: both;
   position: relative;
   outline: 0;
