@@ -32,5 +32,5 @@ Just in case you missed it in the 'about' section at the top of the page, here y
 
 ## Screenshot
 
-![Portfolio Page Screenshot](https://github.com/nicplackle/My-CV-2.0/assets/img/gallery/portfoliopage.png "Portfolio Page")
+![Portfolio Page Screenshot](./assets/img/gallery/portfoliopage.png "Portfolio Page")
 
