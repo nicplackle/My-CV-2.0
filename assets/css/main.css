@@ -354,6 +354,7 @@ a.back-to-top:focus {
 .counter-section:before {
   content: "";
   position: absolute;
+  justify-content: center;
   top: 0;
   bottom: 0;
   width: 100%;
@@ -454,6 +455,10 @@ a.back-to-top:focus {
   position: absolute;
   margin-top: 18px;
   border-color: #00b4d9 !important;
+}
+
+.container {
+  align-items: center;
 }
 
 .timeline li:first-child i {
