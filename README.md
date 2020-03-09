@@ -22,9 +22,9 @@ Here you will find my scholar and professional endeavors which I tackled in the 
 
 ### Work
 
-Maybe the most important section of my resume is this one.  This includes some of my projects I did for Becode (screenshot & hyperlink to the actual page).
+Maybe the most important section of my resume is this one.  This includes some of my projects I did for Becode (screenshot & hyperlink to the actual page) and a Wordpress website I recently created for the Antwerp based vegan restaurant 'Wild Project'.
 
-You will also find 2 websites that I actually didn't create.  One is of my previous job "Muziekhandel Jacky Claes".  I did update the website regularly during my job there.  The other one is from my band "Your Highness".  I am planning to create a new website for my band in the near future as a project.
+Right now I am creating a new website for my band "Your Highness" which should be live soon.
 
 ### Contact
 
