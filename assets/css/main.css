@@ -345,6 +345,8 @@ a.back-to-top:focus {
   bottom: 10px;
 }
 
+/* Counter */
+
 .counter-section {
   background: rgba(0, 0, 0, 0.5);
   overflow: hidden;
